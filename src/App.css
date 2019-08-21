@@ -1,0 +1,10 @@
+.pointer{
+    cursor: pointer;
+}
+.pointer:hover{
+    transition: 1s;
+    background: aquamarine;
+}
+li{
+    list-style: none;
+}
